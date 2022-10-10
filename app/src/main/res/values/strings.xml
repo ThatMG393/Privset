@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PrivSet</string>
+    <string name="app_name">PrivSetV2</string>
     <string name="admob_app_id">ADMOB_APP_ID</string>
     <string name="interstitial_ad_unit_id">INTERSTITIAL_AD_ID</string>
     <string name="banner_ad_unit_id">BANNER_AD_ID1</string>
